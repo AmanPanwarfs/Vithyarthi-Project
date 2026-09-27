@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "topic": "Python Basics",
+        "question": "Which symbol is used to start a comment in Python?",
+        "options": [
+            "//",
+            "#",
+            "/*",
+            "--"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 2,
+        "topic": "Python Basics",
+        "question": "Which of these is an immutable Python data type?",
+        "options": [
+            "List",
+            "Dictionary",
+            "Tuple",
+            "Set"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 3,
+        "topic": "Control Flow",
+        "question": "Which keyword immediately exits a loop?",
+        "options": [
+            "continue",
+            "pass",
+            "break",
+            "exitloop"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 4,
+        "topic": "Control Flow",
+        "question": "Which loop is commonly used when the number of iterations is known?",
+        "options": [
+            "for",
+            "while",
+            "if",
+            "try"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "topic": "Lists",
+        "question": "Which list method adds one item to the end of a list?",
+        "options": [
+            "add()",
+            "append()",
+            "push()",
+            "insert_end()"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 6,
+        "topic": "Dictionaries",
+        "question": "A Python dictionary stores data mainly as:",
+        "options": [
+            "Indexes only",
+            "Key-value pairs",
+            "Ordered pairs only",
+            "Characters"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 7,
+        "topic": "Sets",
+        "question": "What is a key property of a Python set?",
+        "options": [
+            "It stores duplicate values",
+            "It stores only strings",
+            "It stores unique elements",
+            "It is immutable"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 8,
+        "topic": "Algorithms",
+        "question": "Which algorithm finds the greatest common divisor of two numbers?",
+        "options": [
+            "Euclidean algorithm",
+            "Binary search",
+            "Bubble sort",
+            "Fibonacci algorithm"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 9,
+        "topic": "Algorithms",
+        "question": "What is the next number in the Fibonacci sequence 1, 1, 2, 3, 5, ?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 10,
+        "topic": "Functions",
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+            "function",
+            "define",
+            "def",
+            "fun"
+        ],
+        "answer": 3
+    }
+]
